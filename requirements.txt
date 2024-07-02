@@ -1,0 +1,5 @@
+# pyhton3
+pandas
+scikit-learn
+seaborn
+matplotlib
